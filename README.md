@@ -1,3 +1,6 @@
+
+![My Logo](https://raw.githubusercontent.com/your-username/your-repo/main/assets/logo.png)
+
 <h1 align="center">Hi 👋, I'm Salauddin</h1>
 <h3 align="center">A passionate Python(Django) Developer from Bangladesh</h3>
 
