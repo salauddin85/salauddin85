@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Salauddin</h1>
+<h3 align="center">A passionate Python(Django) Developer from Bangladesh</h3>
+
+
+
 # 💫 About Me:
 <br>🌱 I’m currently learning Python(Django Development)<br>💬 Ask me about Python, Django,Django REST Framework,MySQL,JavaScript,C++, DSA<br>📫 How to reach me  ahmedsalauddin677785@gmail.com<br>⚡ Fun fact Code is my art, and GitHub is my gallery.
 
