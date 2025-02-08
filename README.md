@@ -5,10 +5,8 @@
 <h3 align="center">A passionate Software Developer from Bangladesh</h3>
 
 
-
 # 💫 About Me:
 <br>🌱 I’m currently learning Python(Django Development)<br>💬 Ask me about Python, Django,Django REST Framework,MySQL,JavaScript,C++, DSA<br>📫 How to reach me  ahmedsalauddin677785@gmail.com<br>⚡ Fun fact Code is my art, and GitHub is my gallery.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100065552193602) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/salauddin_ahmed_46/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salauddinahmed85/) 
