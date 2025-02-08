@@ -2,7 +2,7 @@
 ![logo](https://github.com/salauddin85/salauddin85/blob/main/Python(Django)%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Salauddin</h1>
-<h3 align="center">A passionate Python(Django) Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Developer from Bangladesh</h3>
 
 
 
