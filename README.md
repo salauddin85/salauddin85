@@ -1,5 +1,6 @@
 
-![logo](https://github.com/salauddin85/salauddin85/blob/5f8f775c4ba8487a90b87c522807773019c8bed4/Python(Django)%20(1).png)
+![logo](https://github.com/salauddin85/salauddin85/blob/main/Python(Django)%20(2).png)
+
 <h1 align="center">Hi 👋, I'm Salauddin</h1>
 <h3 align="center">A passionate Python(Django) Developer from Bangladesh</h3>
 
