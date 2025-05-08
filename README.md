@@ -1,3 +1,4 @@
+
 ![logo](https://github.com/salauddin85/salauddin85/blob/main/Purple%20and%20Black%20Simple%20Coming%20Soon%20Banner%20(3).png)
 
 <h1 align="center">Hi 👋, I'm <span style="color:#915EFF;"><b><i><span id="typing-name">Salauddin</span></i></b></span></h1>
@@ -12,16 +13,14 @@
 <br>🌱 I’m currently learning Python(Django Development)<br>💬 Ask me about Python, Django, Django REST Framework, MySQL, JavaScript, C++, DSA<br>💋 How to reach me: ahmedsalauddin677785@gmail.com<br>✨ Fun fact: Code is my art, and GitHub is my gallery.
 
 # 🚀 Current Learning Path:
-- 🔍 Deep Dive into Django and Django REST Framework
+- 🔍 Deep Dive into Django and Django REST Framework,System Design,Database Design,Design Patterns 
 - 🧠 Practicing Data Structures and Algorithms
 - 🔄 Exploring Docker and Containerization
 - ⚙️ Improving problem-solving and debugging skills
 - 🌐 Mastering API development and integration
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100065552193602)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/salauddin_ahmed_46/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salauddinahmed85/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/profile.php?id=100065552193602) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/salauddin_ahmed_46/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salauddinahmed85/) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -48,6 +47,8 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![UnitTest](https://img.shields.io/badge/unittest-%23232F3E.svg?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=salauddin85&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
