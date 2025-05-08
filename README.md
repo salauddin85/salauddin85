@@ -1,5 +1,5 @@
 
-![logo](https://github.com/salauddin85/salauddin85/blob/main/Python(Django)%20(2).png)
+![logo](https://github.com/salauddin85/salauddin85/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(8).png)
 
 <h1 align="center">Hi 👋, I'm Salauddin</h1>
 <h3 align="center">A passionate Software Developer from Bangladesh</h3>
