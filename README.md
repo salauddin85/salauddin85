@@ -20,7 +20,7 @@
 - 🌐 Mastering API development and integration
 
 ## 🌐 Socials:
-📧 Email: ahmedsalauddin677785@gmail.com  
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100065552193602)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/salauddin_ahmed_46/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salauddinahmed85/)
