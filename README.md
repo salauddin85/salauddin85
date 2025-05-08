@@ -13,7 +13,7 @@
 <br>🌱 I’m currently learning Python(Django Development)<br>💬 Ask me about Python, Django, Django REST Framework, MySQL, JavaScript, C++, DSA<br>💋 How to reach me: ahmedsalauddin677785@gmail.com<br>✨ Fun fact: Code is my art, and GitHub is my gallery.
 
 # 🚀 Current Learning Path:
-- 🔍 Deep Dive into Django and Django REST Framework,System Design,Database Design,Design Patterns 
+- 🔍 Deep Dive into Django and Django REST Framework,System Design,Database Design,API Design,Design Patterns 
 - 🧠 Practicing Data Structures and Algorithms
 - 🔄 Exploring Docker and Containerization
 - ⚙️ Improving problem-solving and debugging skills
