@@ -132,7 +132,6 @@ LLM-powered CV screening and autonomous AI-proctored interviews, a chunked RAG c
 <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
-> Swap `YOUR_LEETCODE_USERNAME` for your real LeetCode handle.
 
 ---
 
