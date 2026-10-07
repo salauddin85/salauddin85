@@ -156,6 +156,6 @@ LLM-powered CV screening and autonomous AI-proctored interviews, a chunked RAG c
 
 <div align="center">
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/salauddinahmed85/) · [Portfolio](https://salauddin-portfolio-two.vercel.app) · [Email](mailto:ahmedsalauddin677785@gmail.com)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/salauddinahmed85/) · [Portfolio](https://mdsalauddin.pages.dev/) · [Email](mailto:ahmedsalauddin677785@gmail.com)
 
 </div>
