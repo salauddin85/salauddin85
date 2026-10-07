@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-I'm a full-stack engineer with nearly 2 years of experience building production-grade, multi-tenant SaaS systems — from **AI-driven HR platforms** to **multi-vendor e-commerce engines**. I care about clean architecture, measurable performance wins, and shipping features that actually move the needle for users and the business.
+I'm a full-stack engineer with  2+ years of experience building production-grade, multi-tenant SaaS systems — from **AI-driven HR platforms** to **multi-vendor e-commerce engines**. I care about clean architecture, measurable performance wins, and shipping features that actually move the needle for users and the business.
 
 - 🏢 Currently building **AI-HRM (TalenTEK)**, **Talent Tracker**, and core **PEPOLTEK** infrastructure at PEPOLTEK LTD
 - 🧠 Deep focus right now: system design, AI agents & RAG pipelines, multi-tenant architecture
