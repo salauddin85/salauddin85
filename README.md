@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=915EFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+MD.+Salauddin;Full+Stack+Software+Engineer;Django+%7C+DRF+%7C+Next.js+%7C+TypeScript;Building+scalable+SaaS+%26+AI-powered+systems" alt="Typing SVG" />
 
-### Full Stack Software Engineer @ PEPOLTEK LTD · Dhaka, Bangladesh
+### Full Stack Software Developer @ PEPOLTEK LTD · Dhaka, Bangladesh
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-915EFF?style=for-the-badge&logo=vercel&logoColor=white)](https://mdsalauddin.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salauddinahmed85/)
@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-I'm a full-stack engineer with  2+ years of experience building production-grade, multi-tenant SaaS systems — from **AI-driven HR platforms** to **multi-vendor e-commerce engines**. I care about clean architecture, measurable performance wins, and shipping features that actually move the needle for users and the business.
+I'm a full-stack software developer with  2+ years of experience building production-grade, multi-tenant SaaS systems — from **AI-driven HR platforms** to **multi-vendor e-commerce engines**. I care about clean architecture, measurable performance wins, and shipping features that actually move the needle for users and the business.
 
 - 🏢 Currently building **AI-HRM (TalenTEK)**, **Talent Tracker**, and core **PEPOLTEK** infrastructure at PEPOLTEK LTD
 - 🧠 Deep focus right now: system design, AI agents & RAG pipelines, multi-tenant architecture
